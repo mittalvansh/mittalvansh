@@ -7,11 +7,11 @@
             <b>
             Hello There
         <br>
-            I'm Vansh, a Student, Novice Programmer and Linux enthusiast.
+            I'm Vansh, a Student, Novice Programmer, and Linux enthusiast.
             </b>
         <br>
         <br>
-           Learning React Right Now!
+           Learning Next.js Right Now!
           </b>
         <br>
           <image src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Nerd+Font&size=17&duration=3000&lines=I+learn+stuff+by+making+smth+out+of+it+;yet+It's+a+painful+method+to+learn+smth">
@@ -53,7 +53,7 @@
   </div>
 
   <p align="left">
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. Additionally, many of the smaller projects I created while learning a new tech stack are not posted. 
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. Additionally, many smaller projects I created while learning a new tech stack are not posted. 
   </p>
   <br/>
 </div>
